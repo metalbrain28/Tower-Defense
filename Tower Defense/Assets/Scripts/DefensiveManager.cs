@@ -62,6 +62,7 @@ public class DefensiveManager : MonoBehaviour {
         maxTile = newTile.transform.position = new Vector3(startPosition.x, startPosition.y, 0);
         cameraMovement.SetLimits(new Vector3(maxTile.x + WidthBackgroundContainer, maxTile.y - HeigthBackgroundContainer));
 
+        newTile.GetComponent<SpriteRenderer>().sortingOrder = -1;
     }
 
     private void CreateStateContainer()

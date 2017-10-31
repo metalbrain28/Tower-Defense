@@ -30,7 +30,7 @@ public class CameraMovement : MonoBehaviour {
             transform.Translate(Vector3.down * 5 * Time.deltaTime);
         }
 
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.D))
         {
             transform.Translate(Vector3.right * 5 * Time.deltaTime);
         }
