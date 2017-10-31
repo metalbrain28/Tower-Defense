@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4975359316983664}
   - component: {fileID: 212619113811749190}
+  - component: {fileID: 114621458591188588}
   m_Layer: 0
   m_Name: defense_container
   m_TagString: Untagged
@@ -40,6 +41,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114621458591188588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240734772070184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50d34a869b90274ab3dc0248ce62a48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212619113811749190
 SpriteRenderer:
   m_ObjectHideFlags: 1

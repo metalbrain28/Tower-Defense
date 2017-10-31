@@ -16,14 +16,32 @@ public class DefensiveManager : MonoBehaviour {
     [SerializeField]
     private GameObject backgroundContainer;
 
+    [SerializeField]
+    private CameraMovement cameraMovement;
+
+    public Dictionary<Point, TileScript> Tiles { get; set; }
+
     public float WidthDefensiveContainer
     {
         get { return defensiveContainer.GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
     }
 
+    public float WidthBackgroundContainer
+    {
+        get { return backgroundContainer.GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
+    }
+
+    public float HeigthBackgroundContainer
+    {
+        get { return backgroundContainer.GetComponent<SpriteRenderer>().sprite.bounds.size.y; }
+    }
+
 
     // Use this for initialization
     void Start () {
+
+        Tiles = new Dictionary<Point, TileScript>();
+
         CreateBackgroundContainer();
         CreateScoreContainer();
         CreateStateContainer();
@@ -37,23 +55,27 @@ public class DefensiveManager : MonoBehaviour {
 
     private void CreateBackgroundContainer()
     {
+        
+        Vector3 maxTile = Vector3.zero;
         Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height));
         GameObject newTile = Instantiate(backgroundContainer);
-        newTile.transform.position = new Vector3(startPosition.x, startPosition.y, 0);
+        maxTile = newTile.transform.position = new Vector3(startPosition.x, startPosition.y, 0);
+        cameraMovement.SetLimits(new Vector3(maxTile.x + WidthBackgroundContainer, maxTile.y - HeigthBackgroundContainer));
+
     }
 
     private void CreateStateContainer()
     {
-        //Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/4, Screen.height));
+        Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/4 + Screen.width/12, Screen.height - Screen.height / 22));
         GameObject newTile = Instantiate(stateContainer);
-        //newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
+        newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
     }
 
     private void CreateScoreContainer()
     {
-        //Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/20, Screen.height));
+        Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/24, Screen.height - Screen.height/30));
         GameObject newTile = Instantiate(scoreContainer);
-        //newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
+        newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
     }
 
     private void CreateDefensiveContainers()
@@ -69,7 +91,11 @@ public class DefensiveManager : MonoBehaviour {
 
     public void PlaceDefensiveContainers(int i, Vector3 startPosition)
     {
-        GameObject newTile = Instantiate(defensiveContainer);
-        newTile.transform.position = new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i/2 + (float)i/4, startPosition.y, float.Parse("-0.01"));
+        //GameObject newTile = Instantiate(defensiveContainer);
+        //newTile.transform.position = new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i / 2 + (float)i / 4, startPosition.y, float.Parse("-0.01"));
+        //select prefab and click add component to add TypeScript
+        TileScript newTile = Instantiate(defensiveContainer).GetComponent<TileScript>();
+        newTile.Setup(new Point(i, 0), new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i / 2 + (float)i / 4, startPosition.y, float.Parse("-0.01")));
+        Tiles.Add(new Point(i, 0), newTile);
     }
 }

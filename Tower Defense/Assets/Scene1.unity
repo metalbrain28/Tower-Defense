@@ -147,6 +147,7 @@ MonoBehaviour:
     type: 2}
   backgroundContainer: {fileID: 1291450494571954, guid: 2fa8ee0af819f134d841cb444c3551a0,
     type: 2}
+  cameraMovement: {fileID: 300708421}
 --- !u!4 &30708119
 Transform:
   m_ObjectHideFlags: 0
@@ -171,6 +172,7 @@ GameObject:
   - component: {fileID: 300708419}
   - component: {fileID: 300708418}
   - component: {fileID: 300708417}
+  - component: {fileID: 300708421}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -240,3 +242,14 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &300708421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 300708416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a344f00f3dcf54a9d38caa56029412, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
