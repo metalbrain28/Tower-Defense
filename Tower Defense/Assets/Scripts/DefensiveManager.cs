@@ -13,6 +13,9 @@ public class DefensiveManager : MonoBehaviour {
     [SerializeField]
     private GameObject scoreContainer;
 
+    [SerializeField]
+    private GameObject backgroundContainer;
+
     public float WidthDefensiveContainer
     {
         get { return defensiveContainer.GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
@@ -21,6 +24,7 @@ public class DefensiveManager : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+        CreateBackgroundContainer();
         CreateScoreContainer();
         CreateStateContainer();
         CreateDefensiveContainers();
@@ -29,6 +33,13 @@ public class DefensiveManager : MonoBehaviour {
     // Update is called once per frame
     void Update() {
 
+    }
+
+    private void CreateBackgroundContainer()
+    {
+        Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height));
+        GameObject newTile = Instantiate(backgroundContainer);
+        newTile.transform.position = new Vector3(startPosition.x, startPosition.y, 0);
     }
 
     private void CreateStateContainer()
