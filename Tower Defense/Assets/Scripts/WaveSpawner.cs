@@ -13,9 +13,9 @@ public class WaveSpawner : Singleton<WaveSpawner>
     int currentWaveNumber=0;
     public float timeLastEnemySpawned ;
 
-    int enemiesRemainToSpawn;
-    int enemiesRemainAlive;
-    int enemies;
+    public int enemiesRemainToSpawn;
+    public int enemiesRemainAlive;
+    public int enemies;
     float nextSpawnTime;
      Enemy enemy;
     
@@ -26,11 +26,19 @@ public class WaveSpawner : Singleton<WaveSpawner>
     // Use this for initialization
     void Start()
     {
+        //enemies = currentWave.enemyCount;
+        //NextWave();
+        //timeLastEnemySpawned = Time.time;
+
+    }
+
+    public void StartEnemyWave()
+    {
         enemies = currentWave.enemyCount;
         NextWave();
         timeLastEnemySpawned = Time.time;
-
     }
+
     void NextWave()
     {
         currentWaveNumber++;
@@ -52,7 +60,6 @@ public class WaveSpawner : Singleton<WaveSpawner>
             }
             if (enemy.isBoss == true)
             {
-
                 enemies = 1;
             }
             else

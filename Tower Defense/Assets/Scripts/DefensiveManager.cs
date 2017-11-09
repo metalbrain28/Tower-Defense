@@ -33,6 +33,12 @@ public class DefensiveManager : Singleton<DefensiveManager>
     [SerializeField]
     private Text escapedEnemiesText;
 
+    [SerializeField]
+    private Button startButton;
+
+    [SerializeField]
+    private GameOverManager gameOverManager = new GameOverManager();
+
     private int currency;
 
     private int gameLevel;
@@ -128,11 +134,31 @@ public class DefensiveManager : Singleton<DefensiveManager>
         GameLevel = 1;
         MaxNumberOfEscapedEnemies = 10;
         EscapedEnemies = 0;
-	}
+
+        // Start button click action binding
+        Button btn = startButton.GetComponent<Button>();
+        btn.onClick.AddListener(StartGame);
+    }
 
     // Update is called once per frame
     void Update() {
 
+    }
+
+    void StartGame()
+    {
+        // Here, we should start a new enemy wave
+        Debug.Log("Start level");
+        // Then hide the button
+        startButton.gameObject.SetActive(false);
+
+        WaveSpawner.Instance.StartEnemyWave();
+        
+    }
+
+    public void EndGame()
+    {
+        gameOverManager.ShowGameOver(123);
     }
 
     private void CreateBackgroundContainer()
