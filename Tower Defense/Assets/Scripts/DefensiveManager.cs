@@ -63,13 +63,19 @@ public class DefensiveManager : MonoBehaviour {
         Debug.Log("Start level");
         // Then hide the button
         startGameButton.gameObject.SetActive(false);
-
-        gameOverManager.ShowGameOver(123);
     }
 
     // Update is called once per frame
     void Update() {
 
+    }
+
+    /**
+     * This one should be called when the max number of enemies have reached the gate.
+     **/
+    void GameEnd()
+    {
+        gameOverManager.ShowGameOver(123);
     }
 
     private void CreateBackgroundContainer()
