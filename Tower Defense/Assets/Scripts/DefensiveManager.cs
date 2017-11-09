@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DefensiveManager : MonoBehaviour {
 
@@ -18,6 +19,10 @@ public class DefensiveManager : MonoBehaviour {
 
     [SerializeField]
     private CameraMovement cameraMovement;
+
+    public Button startGameButton;
+
+    public GameOverManager gameOverManager;
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
@@ -46,7 +51,21 @@ public class DefensiveManager : MonoBehaviour {
         CreateScoreContainer();
         CreateStateContainer();
         CreateDefensiveContainers();
-	}
+
+        // Start button click action binding
+        Button btn = startGameButton.GetComponent<Button>();
+        btn.onClick.AddListener(StartGame);
+    }
+
+    void StartGame()
+    {
+        // Here, we should start a new enemy wave
+        Debug.Log("Start level");
+        // Then hide the button
+        startGameButton.gameObject.SetActive(false);
+
+        gameOverManager.ShowGameOver(123);
+    }
 
     // Update is called once per frame
     void Update() {
