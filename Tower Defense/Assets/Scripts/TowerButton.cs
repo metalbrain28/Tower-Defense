@@ -39,8 +39,9 @@ public class TowerButton : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
     public void OnEndDrag(PointerEventData eventData) {
         //Debug.Log(okToPlace);
         //if (instance != null && TowersManager.Instance != null) {
-            if (okToPlace) {
+            if (okToPlace && DefensiveManager.Instance.checkCurrencyBuy(instance)) {
                 TowersManager.Instance.Towers.Add(instance);
+                DefensiveManager.Instance.towerDragged(instance);
                 instance = null;
             } else {
                 Destroy(instance.gameObject);

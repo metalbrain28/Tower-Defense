@@ -8,13 +8,52 @@ public class Tower : MonoBehaviour {
     [SerializeField] private Sprite[] upgradeStates = null;
     private int spriteIndex = 0;
     [SerializeField]
-    private float speed = 0f;
+    private int speed = 0;
     [SerializeField]
-    private float range = 0f;
+    private int range = 0;
     [SerializeField]
-    private float costToBuy = 0f;
+    private int costToBuy = 0;
     [SerializeField]
-    private float costToUpgrade = 0f;
+    private int costToUpgrade = 0;
+
+    public int CostToBuy
+    {
+        get
+        {
+            return costToBuy;
+        }
+
+        set
+        {
+            costToBuy = value;
+        }
+    }
+
+    public int CostToUpgrade
+    {
+        get
+        {
+            return costToUpgrade;
+        }
+
+        set
+        {
+            costToUpgrade = value;
+        }
+    }
+
+    public int SpriteIndex
+    {
+        get
+        {
+            return spriteIndex;
+        }
+
+        set
+        {
+            spriteIndex = value;
+        }
+    }
 
 
     // Use this for initialization
@@ -34,12 +73,14 @@ public class Tower : MonoBehaviour {
     
 
     public void Upgrde() {
-        if (upgradeStates != null && upgradeStates.Length > spriteIndex) {
-            GetComponent<SpriteRenderer>().sprite = upgradeStates[spriteIndex];
-            spriteIndex++;
+        if (upgradeStates != null && upgradeStates.Length > SpriteIndex && DefensiveManager.Instance.checkCurrencyUpgrade(this)) {
+            DefensiveManager.Instance.towerDragged(this);
+            GetComponent<SpriteRenderer>().sprite = upgradeStates[SpriteIndex];
+            SpriteIndex++;
         }
     }
     public void Sale() {
+        DefensiveManager.Instance.towerSale(this);
         TowersManager.Instance.Towers.Remove(this);
         Destroy(gameObject);    
     }
@@ -52,6 +93,5 @@ public class Tower : MonoBehaviour {
             upgradeMenu.transform.position = Camera.main.WorldToScreenPoint(transform.position);
         }
     }
-
  
 }
