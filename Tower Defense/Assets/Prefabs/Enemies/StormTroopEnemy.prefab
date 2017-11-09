@@ -64,6 +64,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+--- !u!1 &1758256738001462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4901345302079672}
+  - component: {fileID: 114889057090001426}
+  m_Layer: 0
+  m_Name: EnemyGun
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1786161773104750
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,12 +105,26 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1607318044133416}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.93, y: -0.14, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.87991434, y: 0.8179585, z: 1}
   m_Children:
   - {fileID: 224350036776881362}
+  - {fileID: 4901345302079672}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4901345302079672
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1758256738001462}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.26934442, y: 0.11614281, z: 0}
+  m_LocalScale: {x: 1.1364744, y: 1.2225559, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4238529522254728}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &95169150318192504
 Animator:
@@ -215,7 +245,20 @@ MonoBehaviour:
   life: 200
   speed: 0.7
   targetWaypoint: 0
-  isBoss: 0
+  isBoss: 1
+--- !u!114 &114889057090001426
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1758256738001462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c90d6b353ce746748af9082f80b428e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnemyBullet: {fileID: 1968446024246112, guid: 76e01ec2d39aaff4a93c9fef29fe8b2a,
+    type: 2}
 --- !u!114 &114939783809841352
 MonoBehaviour:
   m_ObjectHideFlags: 1

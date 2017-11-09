@@ -46,7 +46,7 @@ public class WaveSpawner : MonoBehaviour
         if( wavePoint==1)
         {
             enemy = objects[UnityEngine.Random.Range(0, objects.Length - 1)];
-            if(currentWaveNumber%5 == 0 && currentWaveNumber != 0)
+            if(currentWaveNumber == 1 && currentWaveNumber != 0)
             {
                 enemy = objects[objects.Length - 1];
             }

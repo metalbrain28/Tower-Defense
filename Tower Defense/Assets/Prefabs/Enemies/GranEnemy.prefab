@@ -154,7 +154,7 @@ MonoBehaviour:
   - {fileID: 1745298633918368, guid: 5f7538cbc5819934a8e91612830db438, type: 2}
   - {fileID: 1452043093215020, guid: 5f7538cbc5819934a8e91612830db438, type: 2}
   life: 100
-  speed: 0.5
+  speed: 0.9
   targetWaypoint: 0
   isBoss: 0
 --- !u!114 &114150169903484492
