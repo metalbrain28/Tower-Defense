@@ -137,7 +137,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1085743498535144}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5db7a1458c036fa43aaeb607304e579c, type: 3}
+  m_Script: {fileID: 11500000, guid: 74f5b25aede28714992313f649d900c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   spawnInterval: 2
@@ -150,10 +150,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1346188807721320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5db7a1458c036fa43aaeb607304e579c, type: 3}
+  m_Script: {fileID: 11500000, guid: 74f5b25aede28714992313f649d900c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnInterval: 3
+  spawnInterval: 2
   enemyCount: 0
 --- !u!114 &114939409735413776
 MonoBehaviour:
@@ -163,8 +163,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 1098937298362598}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5db7a1458c036fa43aaeb607304e579c, type: 3}
+  m_Script: {fileID: 11500000, guid: 74f5b25aede28714992313f649d900c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnInterval: 16
+  spawnInterval: 2
   enemyCount: 0

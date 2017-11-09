@@ -16,6 +16,7 @@ public class HealthBar : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        healthBar = GetComponent<Image>();
         healthBar.fillAmount = health/maxHealth;
 	}
 }
