@@ -1,0 +1,6792 @@
+fileFormatVersion: 2
+guid: 8eeb609d33ac5164dbec10027f8e15ef
+timeCreated: 1509909974
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: darth_vader_0
+    21300002: darth_vader_1
+    21300004: darth_vader_2
+    21300006: darth_vader_3
+    21300008: darth_vader_4
+    21300010: darth_vader_5
+    21300012: darth_vader_6
+    21300014: darth_vader_7
+    21300016: darth_vader_8
+    21300018: darth_vader_9
+    21300020: darth_vader_10
+    21300022: darth_vader_11
+    21300024: darth_vader_12
+    21300026: darth_vader_13
+    21300028: darth_vader_14
+    21300030: darth_vader_15
+    21300032: darth_vader_16
+    21300034: darth_vader_17
+    21300036: darth_vader_18
+    21300038: darth_vader_19
+    21300040: darth_vader_20
+    21300042: darth_vader_21
+    21300044: darth_vader_22
+    21300046: darth_vader_23
+    21300048: darth_vader_24
+    21300050: darth_vader_25
+    21300052: darth_vader_26
+    21300054: darth_vader_27
+    21300056: darth_vader_28
+    21300058: darth_vader_29
+    21300060: darth_vader_30
+    21300062: darth_vader_31
+    21300064: darth_vader_32
+    21300066: darth_vader_33
+    21300068: darth_vader_34
+    21300070: darth_vader_35
+    21300072: darth_vader_36
+    21300074: darth_vader_37
+    21300076: darth_vader_38
+    21300078: darth_vader_39
+    21300080: darth_vader_40
+    21300082: darth_vader_41
+    21300084: darth_vader_42
+    21300086: darth_vader_43
+    21300088: darth_vader_44
+    21300090: darth_vader_45
+    21300092: darth_vader_46
+    21300094: darth_vader_47
+    21300096: darth_vader_48
+    21300098: darth_vader_49
+    21300100: darth_vader_50
+    21300102: darth_vader_51
+    21300104: darth_vader_52
+    21300106: darth_vader_53
+    21300108: darth_vader_54
+    21300110: darth_vader_55
+    21300112: darth_vader_56
+    21300114: darth_vader_57
+    21300116: darth_vader_58
+    21300118: darth_vader_59
+    21300120: darth_vader_60
+    21300122: darth_vader_61
+    21300124: darth_vader_62
+    21300126: darth_vader_63
+    21300128: darth_vader_64
+    21300130: darth_vader_65
+    21300132: darth_vader_66
+    21300134: darth_vader_67
+    21300136: darth_vader_68
+    21300138: darth_vader_69
+    21300140: darth_vader_70
+    21300142: darth_vader_71
+    21300144: darth_vader_72
+    21300146: darth_vader_73
+    21300148: darth_vader_74
+    21300150: darth_vader_75
+    21300152: darth_vader_76
+    21300154: darth_vader_77
+    21300156: darth_vader_78
+    21300158: darth_vader_79
+    21300160: darth_vader_80
+    21300162: darth_vader_81
+    21300164: darth_vader_82
+    21300166: darth_vader_83
+    21300168: darth_vader_84
+    21300170: darth_vader_85
+    21300172: darth_vader_86
+    21300174: darth_vader_87
+    21300176: darth_vader_88
+    21300178: darth_vader_89
+    21300180: darth_vader_90
+    21300182: darth_vader_91
+    21300184: darth_vader_92
+    21300186: darth_vader_93
+    21300188: darth_vader_94
+    21300190: darth_vader_95
+    21300192: darth_vader_96
+    21300194: darth_vader_97
+    21300196: darth_vader_98
+    21300198: darth_vader_99
+    21300200: darth_vader_100
+    21300202: darth_vader_101
+    21300204: darth_vader_102
+    21300206: darth_vader_103
+    21300208: darth_vader_104
+    21300210: darth_vader_105
+    21300212: darth_vader_106
+    21300214: darth_vader_107
+    21300216: darth_vader_108
+    21300218: darth_vader_109
+    21300220: darth_vader_110
+    21300222: darth_vader_111
+    21300224: darth_vader_112
+    21300226: darth_vader_113
+    21300228: darth_vader_114
+    21300230: darth_vader_115
+    21300232: darth_vader_116
+    21300234: darth_vader_117
+    21300236: darth_vader_118
+    21300238: darth_vader_119
+    21300240: darth_vader_120
+    21300242: darth_vader_121
+    21300244: darth_vader_122
+    21300246: darth_vader_123
+    21300248: darth_vader_124
+    21300250: darth_vader_125
+    21300252: darth_vader_126
+    21300254: darth_vader_127
+    21300256: darth_vader_128
+    21300258: darth_vader_129
+    21300260: darth_vader_130
+    21300262: darth_vader_131
+    21300264: darth_vader_132
+    21300266: darth_vader_133
+    21300268: darth_vader_134
+    21300270: darth_vader_135
+    21300272: darth_vader_136
+    21300274: darth_vader_137
+    21300276: darth_vader_138
+    21300278: darth_vader_139
+    21300280: darth_vader_140
+    21300282: darth_vader_141
+    21300284: darth_vader_142
+    21300286: darth_vader_143
+    21300288: darth_vader_144
+    21300290: darth_vader_145
+    21300292: darth_vader_146
+    21300294: darth_vader_147
+    21300296: darth_vader_148
+    21300298: darth_vader_149
+    21300300: darth_vader_150
+    21300302: darth_vader_151
+    21300304: darth_vader_152
+    21300306: darth_vader_153
+    21300308: darth_vader_154
+    21300310: darth_vader_155
+    21300312: darth_vader_156
+    21300314: darth_vader_157
+    21300316: darth_vader_158
+    21300318: darth_vader_159
+    21300320: darth_vader_160
+    21300322: darth_vader_161
+    21300324: darth_vader_162
+    21300326: darth_vader_163
+    21300328: darth_vader_164
+    21300330: darth_vader_165
+    21300332: darth_vader_166
+    21300334: darth_vader_167
+    21300336: darth_vader_168
+    21300338: darth_vader_169
+    21300340: darth_vader_170
+    21300342: darth_vader_171
+    21300344: darth_vader_172
+    21300346: darth_vader_173
+    21300348: darth_vader_174
+    21300350: darth_vader_175
+    21300352: darth_vader_176
+    21300354: darth_vader_177
+    21300356: darth_vader_178
+    21300358: darth_vader_179
+    21300360: darth_vader_180
+    21300362: darth_vader_181
+    21300364: darth_vader_182
+    21300366: darth_vader_183
+    21300368: darth_vader_184
+    21300370: darth_vader_185
+    21300372: darth_vader_186
+    21300374: darth_vader_187
+    21300376: darth_vader_188
+    21300378: darth_vader_189
+    21300380: darth_vader_190
+    21300382: darth_vader_191
+    21300384: darth_vader_192
+    21300386: darth_vader_193
+    21300388: darth_vader_194
+    21300390: darth_vader_195
+    21300392: darth_vader_196
+    21300394: darth_vader_197
+    21300396: darth_vader_198
+    21300398: darth_vader_199
+    21300400: darth_vader_200
+    21300402: darth_vader_201
+    21300404: darth_vader_202
+    21300406: darth_vader_203
+    21300408: darth_vader_204
+    21300410: darth_vader_205
+    21300412: darth_vader_206
+    21300414: darth_vader_207
+    21300416: darth_vader_208
+    21300418: darth_vader_209
+    21300420: darth_vader_210
+    21300422: darth_vader_211
+    21300424: darth_vader_212
+    21300426: darth_vader_213
+    21300428: darth_vader_214
+    21300430: darth_vader_215
+    21300432: darth_vader_216
+    21300434: darth_vader_217
+    21300436: darth_vader_218
+    21300438: darth_vader_219
+    21300440: darth_vader_220
+    21300442: darth_vader_221
+    21300444: darth_vader_222
+    21300446: darth_vader_223
+    21300448: darth_vader_224
+    21300450: darth_vader_225
+    21300452: darth_vader_226
+    21300454: darth_vader_227
+    21300456: darth_vader_228
+    21300458: darth_vader_229
+    21300460: darth_vader_230
+    21300462: darth_vader_231
+    21300464: darth_vader_232
+    21300466: darth_vader_233
+    21300468: darth_vader_234
+    21300470: darth_vader_235
+    21300472: darth_vader_236
+    21300474: darth_vader_237
+    21300476: darth_vader_238
+    21300478: darth_vader_239
+    21300480: darth_vader_240
+    21300482: darth_vader_241
+    21300484: darth_vader_242
+    21300486: darth_vader_243
+    21300488: darth_vader_244
+    21300490: darth_vader_245
+    21300492: darth_vader_246
+    21300494: darth_vader_247
+    21300496: darth_vader_248
+    21300498: darth_vader_249
+    21300500: darth_vader_250
+    21300502: darth_vader_251
+    21300504: darth_vader_252
+    21300506: darth_vader_253
+    21300508: darth_vader_254
+    21300510: darth_vader_255
+    21300512: darth_vader_256
+    21300514: darth_vader_257
+    21300516: darth_vader_258
+    21300518: darth_vader_259
+    21300520: darth_vader_260
+    21300522: darth_vader_261
+    21300524: darth_vader_262
+    21300526: darth_vader_263
+    21300528: darth_vader_264
+    21300530: darth_vader_265
+    21300532: darth_vader_266
+    21300534: darth_vader_267
+    21300536: darth_vader_268
+    21300538: darth_vader_269
+    21300540: darth_vader_270
+    21300542: darth_vader_271
+    21300544: darth_vader_272
+    21300546: darth_vader_273
+    21300548: darth_vader_274
+    21300550: darth_vader_275
+    21300552: darth_vader_276
+    21300554: darth_vader_277
+    21300556: darth_vader_278
+    21300558: darth_vader_279
+    21300560: darth_vader_280
+    21300562: darth_vader_281
+    21300564: darth_vader_282
+    21300566: darth_vader_283
+    21300568: darth_vader_284
+    21300570: darth_vader_285
+    21300572: darth_vader_286
+    21300574: darth_vader_287
+    21300576: darth_vader_288
+    21300578: darth_vader_289
+    21300580: darth_vader_290
+    21300582: darth_vader_291
+    21300584: darth_vader_292
+    21300586: darth_vader_293
+    21300588: darth_vader_294
+    21300590: darth_vader_295
+    21300592: darth_vader_296
+    21300594: darth_vader_297
+    21300596: darth_vader_298
+    21300598: darth_vader_299
+    21300600: darth_vader_300
+    21300602: darth_vader_301
+    21300604: darth_vader_302
+    21300606: darth_vader_303
+    21300608: darth_vader_304
+    21300610: darth_vader_305
+    21300612: darth_vader_306
+    21300614: darth_vader_307
+    21300616: darth_vader_308
+    21300618: darth_vader_309
+    21300620: darth_vader_310
+    21300622: darth_vader_311
+    21300624: darth_vader_312
+    21300626: darth_vader_313
+    21300628: darth_vader_314
+    21300630: darth_vader_315
+    21300632: darth_vader_316
+    21300634: darth_vader_317
+    21300636: darth_vader_318
+    21300638: darth_vader_319
+    21300640: darth_vader_320
+    21300642: darth_vader_321
+    21300644: darth_vader_322
+    21300646: darth_vader_323
+    21300648: darth_vader_324
+    21300650: darth_vader_325
+    21300652: darth_vader_326
+    21300654: darth_vader_327
+    21300656: darth_vader_328
+    21300658: darth_vader_329
+    21300660: darth_vader_330
+    21300662: darth_vader_331
+    21300664: darth_vader_332
+    21300666: darth_vader_333
+    21300668: darth_vader_334
+    21300670: darth_vader_335
+    21300672: darth_vader_336
+    21300674: darth_vader_337
+    21300676: darth_vader_338
+    21300678: darth_vader_339
+    21300680: darth_vader_340
+    21300682: darth_vader_341
+    21300684: darth_vader_342
+    21300686: darth_vader_343
+    21300688: darth_vader_344
+    21300690: darth_vader_345
+    21300692: darth_vader_346
+    21300694: darth_vader_347
+    21300696: darth_vader_348
+    21300698: darth_vader_349
+    21300700: darth_vader_350
+    21300702: darth_vader_351
+    21300704: darth_vader_352
+    21300706: darth_vader_353
+    21300708: darth_vader_354
+    21300710: darth_vader_355
+    21300712: darth_vader_356
+    21300714: darth_vader_357
+    21300716: darth_vader_358
+    21300718: darth_vader_359
+    21300720: darth_vader_360
+    21300722: darth_vader_361
+    21300724: darth_vader_362
+    21300726: darth_vader_363
+    21300728: darth_vader_364
+    21300730: darth_vader_365
+    21300732: darth_vader_366
+    21300734: darth_vader_367
+    21300736: darth_vader_368
+    21300738: darth_vader_369
+    21300740: darth_vader_370
+    21300742: darth_vader_371
+    21300744: darth_vader_372
+    21300746: darth_vader_373
+    21300748: darth_vader_374
+    21300750: darth_vader_375
+    21300752: darth_vader_376
+    21300754: darth_vader_377
+    21300756: darth_vader_378
+    21300758: darth_vader_379
+    21300760: darth_vader_380
+    21300762: darth_vader_381
+    21300764: darth_vader_382
+    21300766: darth_vader_383
+    21300768: darth_vader_384
+    21300770: darth_vader_385
+    21300772: darth_vader_386
+    21300774: darth_vader_387
+    21300776: darth_vader_388
+    21300778: darth_vader_389
+    21300780: darth_vader_390
+    21300782: darth_vader_391
+    21300784: darth_vader_392
+    21300786: darth_vader_393
+    21300788: darth_vader_394
+    21300790: darth_vader_395
+    21300792: darth_vader_396
+    21300794: darth_vader_397
+    21300796: darth_vader_398
+    21300798: darth_vader_399
+    21300800: darth_vader_400
+    21300802: darth_vader_401
+    21300804: darth_vader_402
+    21300806: darth_vader_403
+    21300808: darth_vader_404
+    21300810: darth_vader_405
+    21300812: darth_vader_406
+    21300814: darth_vader_407
+    21300816: darth_vader_408
+    21300818: darth_vader_409
+    21300820: darth_vader_410
+    21300822: darth_vader_411
+    21300824: darth_vader_412
+    21300826: darth_vader_413
+    21300828: darth_vader_414
+    21300830: darth_vader_415
+    21300832: darth_vader_416
+    21300834: darth_vader_417
+    21300836: darth_vader_418
+    21300838: darth_vader_419
+    21300840: darth_vader_420
+    21300842: darth_vader_421
+    21300844: darth_vader_422
+    21300846: darth_vader_423
+    21300848: darth_vader_424
+    21300850: darth_vader_425
+    21300852: darth_vader_426
+    21300854: darth_vader_427
+    21300856: darth_vader_428
+    21300858: darth_vader_429
+    21300860: darth_vader_430
+    21300862: darth_vader_431
+    21300864: darth_vader_432
+    21300866: darth_vader_433
+    21300868: darth_vader_434
+    21300870: darth_vader_435
+    21300872: darth_vader_436
+    21300874: darth_vader_437
+    21300876: darth_vader_438
+    21300878: darth_vader_439
+    21300880: darth_vader_440
+    21300882: darth_vader_441
+    21300884: darth_vader_442
+    21300886: darth_vader_443
+    21300888: darth_vader_444
+    21300890: darth_vader_445
+    21300892: darth_vader_446
+    21300894: darth_vader_447
+    21300896: darth_vader_448
+    21300898: darth_vader_449
+    21300900: darth_vader_450
+    21300902: darth_vader_451
+    21300904: darth_vader_452
+    21300906: darth_vader_453
+    21300908: darth_vader_454
+    21300910: darth_vader_455
+    21300912: darth_vader_456
+    21300914: darth_vader_457
+    21300916: darth_vader_458
+    21300918: darth_vader_459
+    21300920: darth_vader_460
+    21300922: darth_vader_461
+    21300924: darth_vader_462
+    21300926: darth_vader_463
+    21300928: darth_vader_464
+    21300930: darth_vader_465
+    21300932: darth_vader_466
+    21300934: darth_vader_467
+    21300936: darth_vader_468
+    21300938: darth_vader_469
+    21300940: darth_vader_470
+    21300942: darth_vader_471
+    21300944: darth_vader_472
+    21300946: darth_vader_473
+    21300948: darth_vader_474
+    21300950: darth_vader_475
+    21300952: darth_vader_476
+    21300954: darth_vader_477
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darth_vader_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 716
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 714
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 687
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 687
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 687
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 686
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 686
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 686
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 685
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 683
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 720
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 719
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 717
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 718
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 690
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 704
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 694
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 711
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 691
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 691
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 684
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 686
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 707
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 705
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_25
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 707
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_26
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 707
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_27
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 707
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 707
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 707
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 707
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 707
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 707
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_33
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 707
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 707
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 707
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 687
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_37
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 686
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 686
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 690
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 606
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 606
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 606
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 606
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 606
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 606
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 606
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 606
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_48
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 661
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 661
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_50
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 661
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 661
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_52
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 661
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 661
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_54
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 661
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 661
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_56
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 659
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 638
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 638
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 636
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 504
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 504
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 481
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 481
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 481
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_67
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 481
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 481
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 481
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_71
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 481
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_72
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 481
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_73
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 481
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_74
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 481
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_75
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 481
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_76
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 380
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_77
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 447
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_78
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_79
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_80
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 447
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_81
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_82
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 445
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_84
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 447
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_85
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 447
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_86
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_87
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_88
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_89
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_90
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_91
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 445
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_93
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 447
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_94
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 447
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_95
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 447
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_96
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 447
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_97
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 447
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_98
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 447
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 447
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_100
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 447
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_101
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_102
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_103
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_104
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_105
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_106
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_107
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 379
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_108
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 378
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 379
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 379
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_111
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 379
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_112
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 381
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_113
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 380
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_114
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_115
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 435
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_116
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_117
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 433
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_118
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_119
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_120
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 433
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_121
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_122
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 435
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_123
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_124
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 434
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 435
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_126
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 435
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_127
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_128
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_129
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 433
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_130
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_131
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_132
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_133
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 435
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_134
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_135
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_136
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_137
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_138
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_139
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_140
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 418
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_141
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 423
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_142
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_143
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_144
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_145
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 423
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_146
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 423
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_147
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_148
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_149
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 421
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_150
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_151
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 421
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_152
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_153
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 423
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_154
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_156
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 423
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_157
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_158
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_159
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_160
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_161
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 423
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_162
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 423
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_164
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_165
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_166
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_167
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 415
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 415
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_169
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 411
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_170
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_171
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_172
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_173
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_174
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 409
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_175
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_176
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_177
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_178
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 411
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_179
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_180
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_181
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_182
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_183
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_184
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_185
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_186
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_188
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_189
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 411
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 411
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_191
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_192
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_193
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 411
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_194
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 401
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_195
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_196
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 403
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_197
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 403
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_198
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 403
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_199
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 401
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_200
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 399
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_201
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_202
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_203
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 399
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_204
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_205
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_206
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 397
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_207
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_208
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 399
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_209
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_210
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_211
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_212
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 399
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_213
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 399
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_214
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_215
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 399
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_216
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_217
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 399
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_218
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_219
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_220
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_221
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 397
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_222
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 397
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_223
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 399
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_224
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_225
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 387
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_226
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_227
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_228
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 385
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_229
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_230
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_231
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 387
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_232
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_233
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 386
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 385
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_235
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_236
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_237
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 387
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_238
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 387
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_239
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 332
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_240
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 266
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_241
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 266
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_242
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 266
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_243
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 266
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_245
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_246
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 306
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_247
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 306
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_248
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 266
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_249
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 266
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_250
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 266
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_251
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 266
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_252
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 266
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_253
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 266
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_254
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 266
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_255
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 292
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_256
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 294
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_257
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_258
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_259
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 294
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_260
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_261
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_262
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 276
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_263
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 149
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_264
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_265
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 145
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_266
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 144
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_267
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 201
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_268
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 146
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_269
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 146
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_270
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 146
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_271
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_272
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 185
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_273
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 185
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_274
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_275
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 164
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_276
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 171
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_277
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_278
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_279
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_280
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_281
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_282
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_283
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 126
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_284
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_285
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_286
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 126
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_287
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 126
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_288
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_289
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 126
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_290
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_291
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 126
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_292
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 126
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_293
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 124
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_294
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_295
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 126
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_296
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_297
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 124
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_298
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 126
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_299
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 24
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_300
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 24
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_301
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 24
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_302
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 24
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_303
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 23
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_304
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_305
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_306
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_307
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_308
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_309
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_310
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_311
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_312
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_313
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 114
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_314
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_315
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_316
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_317
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 112
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_318
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_319
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 102
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_320
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_321
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_322
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 102
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_323
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_324
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_325
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 102
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_326
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 102
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_327
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 102
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_328
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_329
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_330
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_331
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_332
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 100
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_333
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_334
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_335
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_336
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_337
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_338
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_339
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 102
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_340
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 37
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_341
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_342
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_343
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 34
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_344
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 35
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_345
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_346
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 88
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_347
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_348
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_349
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 90
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_350
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_351
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_352
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 90
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_353
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_354
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_355
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_356
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_357
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_358
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_359
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_360
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 76
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_361
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_362
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_363
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_364
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_365
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_366
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_367
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_368
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_369
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_370
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_371
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 78
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_372
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 78
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_373
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_374
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_375
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_376
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_377
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 33
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_378
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 66
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_379
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_380
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_381
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_382
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_383
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_384
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 64
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_385
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_386
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_387
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_388
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_389
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_390
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 66
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_391
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 34
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_392
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 54
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_393
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 54
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_394
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 54
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_395
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_396
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_397
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 54
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_398
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 54
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_399
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_400
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 54
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_401
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_402
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_403
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 52
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_404
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_405
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_406
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_407
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_408
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 54
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_409
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 54
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_410
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 40
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_411
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_412
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_413
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 40
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_414
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_415
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 40
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_416
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_417
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_418
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 42
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_419
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_420
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_421
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_422
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 42
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_423
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_424
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_425
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_426
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_427
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_428
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 30
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_429
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_430
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 30
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_431
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_432
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_433
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_434
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 30
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_435
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 30
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_436
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 30
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_437
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_438
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_439
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_440
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 30
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_441
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_442
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_443
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_444
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_445
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_446
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_447
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_448
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_449
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_450
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_451
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_452
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_453
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_454
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_455
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_456
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_457
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_458
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_459
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_460
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_461
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_462
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_463
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_464
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_465
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_466
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_467
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_468
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_469
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_470
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_471
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_472
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_473
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_474
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_475
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_476
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darth_vader_477
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
