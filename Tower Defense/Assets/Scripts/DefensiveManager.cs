@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class DefensiveManager : MonoBehaviour {
+public class DefensiveManager : Singleton<DefensiveManager>
+{
 
     [SerializeField]
     private GameObject defensiveContainer;
@@ -18,6 +20,26 @@ public class DefensiveManager : MonoBehaviour {
 
     [SerializeField]
     private CameraMovement cameraMovement;
+
+    [SerializeField]
+    private Transform mapObjects;
+
+    [SerializeField]
+    private Text currencyText;
+
+    [SerializeField]
+    private Text gameLevelText;
+
+    [SerializeField]
+    private Text escapedEnemiesText;
+
+    private int currency;
+
+    private int gameLevel;
+
+    private int escapedEnemies;
+
+    private int maxNumberOfEscapedEnemies;
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
@@ -36,6 +58,61 @@ public class DefensiveManager : MonoBehaviour {
         get { return backgroundContainer.GetComponent<SpriteRenderer>().sprite.bounds.size.y; }
     }
 
+    public int Currency
+    {
+        get
+        {
+            return currency;
+        }
+
+        set
+        {
+            this.currency = value;
+            this.currencyText.text = value.ToString() + " $";
+        }
+    }
+
+    public int GameLevel
+    {
+        get
+        {
+            return gameLevel;
+        }
+
+        set
+        {
+            this.gameLevel = value;
+            this.gameLevelText.text = "L " + value.ToString();
+        }
+    }
+
+    public int EscapedEnemies
+    {
+        get
+        {
+            return escapedEnemies;
+        }
+
+        set
+        {
+            this.escapedEnemies = value;
+            this.escapedEnemiesText.text = "Escaped " + value.ToString() + "/" + MaxNumberOfEscapedEnemies.ToString();
+        }
+    }
+
+    public int MaxNumberOfEscapedEnemies
+    {
+        get
+        {
+            return maxNumberOfEscapedEnemies;
+        }
+
+        set
+        {
+            this.maxNumberOfEscapedEnemies = value;
+        }
+    }
+
 
     // Use this for initialization
     void Start () {
@@ -46,6 +123,11 @@ public class DefensiveManager : MonoBehaviour {
         CreateScoreContainer();
         CreateStateContainer();
         CreateDefensiveContainers();
+
+        Currency = 50;
+        GameLevel = 1;
+        MaxNumberOfEscapedEnemies = 10;
+        EscapedEnemies = 0;
 	}
 
     // Update is called once per frame
@@ -55,13 +137,12 @@ public class DefensiveManager : MonoBehaviour {
 
     private void CreateBackgroundContainer()
     {
-        
         Vector3 maxTile = Vector3.zero;
         Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height));
         GameObject newTile = Instantiate(backgroundContainer);
         maxTile = newTile.transform.position = new Vector3(startPosition.x, startPosition.y, 0);
+        newTile.transform.SetParent(mapObjects);
         cameraMovement.SetLimits(new Vector3(maxTile.x + WidthBackgroundContainer, maxTile.y - HeigthBackgroundContainer));
-
         newTile.GetComponent<SpriteRenderer>().sortingOrder = -1;
     }
 
@@ -70,6 +151,7 @@ public class DefensiveManager : MonoBehaviour {
         Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/4 + Screen.width/12, Screen.height - Screen.height / 22));
         GameObject newTile = Instantiate(stateContainer);
         newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
+        newTile.transform.SetParent(mapObjects);
     }
 
     private void CreateScoreContainer()
@@ -77,6 +159,7 @@ public class DefensiveManager : MonoBehaviour {
         Vector3 startPosition = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width/24, Screen.height - Screen.height/30));
         GameObject newTile = Instantiate(scoreContainer);
         newTile.transform.position = new Vector3(startPosition.x, startPosition.y, float.Parse("-0.01"));
+        newTile.transform.SetParent(mapObjects);
     }
 
     private void CreateDefensiveContainers()
@@ -96,7 +179,28 @@ public class DefensiveManager : MonoBehaviour {
         //newTile.transform.position = new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i / 2 + (float)i / 4, startPosition.y, float.Parse("-0.01"));
         //select prefab and click add component to add TypeScript
         TileScript newTile = Instantiate(defensiveContainer).GetComponent<TileScript>();
-        newTile.Setup(new Point(i, 0), new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i / 2 + (float)i / 4, startPosition.y, float.Parse("-0.01")));
-        Tiles.Add(new Point(i, 0), newTile);
+        newTile.Setup(new Point(i, 0), new Vector3(startPosition.x + WidthDefensiveContainer * i + (float)i / 2 + (float)i / 4, startPosition.y, float.Parse("-0.01")), mapObjects);
     }
+
+
+    public void towerDragged(Tower towerButton)
+    {
+        Currency -= towerButton.CostToBuy;
+    }
+
+    public void towerSale(Tower towerButton)
+    {
+        Currency += towerButton.CostToBuy*(towerButton.SpriteIndex + 1);
+    }
+
+    public bool checkCurrencyBuy(Tower tower)
+    {
+        return tower.CostToBuy <= Currency;
+    }
+
+    public bool checkCurrencyUpgrade(Tower tower)
+    {
+        return tower.CostToUpgrade <= Currency;
+    }
+
 }

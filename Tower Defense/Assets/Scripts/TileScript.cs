@@ -16,9 +16,11 @@ public class TileScript : MonoBehaviour {
 		
 	}
 
-    public void Setup(Point gridPosition, Vector3 worldPosition)
+    public void Setup(Point gridPosition, Vector3 worldPosition, Transform parent)
     {
         this.GridPosition = gridPosition;
         transform.position = worldPosition;
+        transform.SetParent(parent);
+        DefensiveManager.Instance.Tiles.Add(gridPosition, this);
     }
 }
