@@ -201,11 +201,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 202
     y: 0
+<<<<<<< HEAD
     width: 204
     height: 388
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
+=======
+    width: 701
+    height: 578
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 15}
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
@@ -228,11 +236,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 406
     y: 0
+<<<<<<< HEAD
     width: 667
     height: 388
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 14}
+=======
+    width: 625
+    height: 578
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 13}
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
   m_Panes:
   - {fileID: 14}
   m_Selected: 0
@@ -279,11 +295,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1073
     y: 0
+<<<<<<< HEAD
     width: 277
     height: 659
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
+=======
+    width: 390
+    height: 948
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 20}
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
   m_Panes:
   - {fileID: 21}
   - {fileID: 22}
@@ -421,6 +445,7 @@ MonoBehaviour:
     height: 367
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: ce42feffaa9dfeff18befeff2cbefeffb0bffeffc0bffeffc2bffeff46d1feff48d1feffa2d3feffb2d3feffb4d3feffc25effffd85effffda5effffec77ffff0278ffff0478ffffd07effffe07effff1c86ffff2c86ffffda91ffffee91fffff091fffffeb3ffffdafbffff000000000e2d0000
@@ -428,13 +453,26 @@ MonoBehaviour:
       m_UserAcceptedRename: 0
       m_Name: DefensiveManager
       m_OriginalName: DefensiveManager
+=======
+    m_SelectedIDs: 04280000
+    m_LastClickedID: 0
+    m_ExpandedIDs: a0fbffff00000000402800004a280000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: Button3
+      m_OriginalName: Button3
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
+<<<<<<< HEAD
       m_UserData: 11380
+=======
+      m_UserData: 10318
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -473,7 +511,11 @@ MonoBehaviour:
     width: 200
     height: 367
   m_SceneLighting: 1
+<<<<<<< HEAD
   lastFramingTime: 7724.22815280167
+=======
+  lastFramingTime: 15410.145392693876
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
@@ -638,19 +680,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/Prefabs/Enemies
   m_ViewMode: 1
   m_StartGridSize: 55
   m_LastFolders:
   - Assets/Prefabs/Enemies
+=======
+    - Assets/Prefabs/Turnuri
+  m_ViewMode: 1
+  m_StartGridSize: 55
+  m_LastFolders:
+  - Assets/Prefabs/Turnuri
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
   m_LastFoldersGridSize: 55
   m_LastProjectPath: D:\Tower-Defense\Tower-Defense\tower2\Tower-Defense\Tower Defense
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 762b0000
     m_LastClickedID: 11126
     m_ExpandedIDs: 00000000e0240000fe26000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: f2270000
+    m_LastClickedID: 10226
+    m_ExpandedIDs: 00000000262700008a27000000ca9a3bffffff7f
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: UI
@@ -678,7 +734,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000e0240000fe26000054270000
+=======
+    m_ExpandedIDs: 0000000026270000
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +766,11 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 3439feff
     m_LastClickedInstanceID: -116428
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c623000032270000d42700000e2600008c2700009c2a0000322a00001c2a00007a2a0000182a0000b62a000036260000a827000020250000442c0000062700006c2b00006a250000d279ffff8e270000922b00000e2500002e540000f287ffff
+=======
+    m_ExpandedInstanceIDs: c623000032270000d42700000e2600008c27000000000000
+>>>>>>> 1443b2078779e64c613b32a487da3cda6cc7fbbd
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -788,7 +852,7 @@ MonoBehaviour:
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
