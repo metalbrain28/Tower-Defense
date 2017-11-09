@@ -203,4 +203,14 @@ public class DefensiveManager : Singleton<DefensiveManager>
         return tower.CostToUpgrade <= Currency;
     }
 
+    public void enemiesEscaped()
+    {
+        EscapedEnemies += 1;
+        if (EscapedEnemies > MaxNumberOfEscapedEnemies)
+        {
+            
+
+            Start();
+        }
+    }
 }

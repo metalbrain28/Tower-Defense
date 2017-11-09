@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour {
+public class Enemy : Singleton<Enemy> {
 
      public GameObject[] waypoints;
      public float life ;
@@ -33,8 +33,10 @@ public class Enemy : MonoBehaviour {
         
         float step = speed*Time.deltaTime ;
         if (targetWaypoint == 12)
+        {
+            DefensiveManager.Instance.enemiesEscaped();
             Killed();
-        else {
+        } else {
             if (gameObject.transform.position.y < waypoints[targetWaypoint].transform.position.y)
             {
                 animator.Play("goUp");
@@ -47,11 +49,11 @@ public class Enemy : MonoBehaviour {
             {
                 animator.Play("goRight");
             }
-          /*  if (isBoss)
-            {
-               GameObject go =  Instantiate(projectile, (Vector2)transform.position + offset * transform.localScale.x, Quaternion.identity);
-            }
-             */  
+            /*  if (isBoss)
+              {
+                 GameObject go =  Instantiate(projectile, (Vector2)transform.position + offset * transform.localScale.x, Quaternion.identity);
+              }
+               */
 
             transform.position = Vector3.MoveTowards(transform.position, waypoints[targetWaypoint].transform.position, step);
             if (gameObject.transform.position == waypoints[targetWaypoint].transform.position)
@@ -65,7 +67,7 @@ public class Enemy : MonoBehaviour {
     public event System.Action OnDeath;
 
     
-	void Killed(){
+	public void Killed(){
         //EnemyManager.Instance.enemies.Remove(this.gameObject);
         dead = true;
         if(OnDeath != null)

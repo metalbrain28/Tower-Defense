@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-public class WaveSpawner : MonoBehaviour
+public class WaveSpawner : Singleton<WaveSpawner>
 {
 
    
@@ -70,8 +70,8 @@ public class WaveSpawner : MonoBehaviour
 
         currentWave.enemyCount = enemies;
            
-            enemiesRemainToSpawn = currentWave.enemyCount;
-            enemiesRemainAlive = enemiesRemainToSpawn;
+        enemiesRemainToSpawn = currentWave.enemyCount;
+        enemiesRemainAlive = enemiesRemainToSpawn;
       
     
     }
@@ -85,7 +85,8 @@ public class WaveSpawner : MonoBehaviour
             NextWave();
         }
     }
-        void Update()
+
+    void Update()
     {
         
         if(enemiesRemainToSpawn>0 && Time.time > nextSpawnTime)

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyWave : MonoBehaviour {
+public class EnemyWave : Singleton<EnemyWave> {
 
 	// Use this for initialization
 	void Start () {
