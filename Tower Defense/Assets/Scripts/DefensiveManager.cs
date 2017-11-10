@@ -37,7 +37,10 @@ public class DefensiveManager : Singleton<DefensiveManager>
     private Button startButton;
 
     [SerializeField]
-    private GameOverManager gameOverManager = new GameOverManager();
+    private GameOverManager gameOverManager;
+
+    [SerializeField]
+    private TowersManager towersManager;
 
     private int currency;
 
@@ -121,7 +124,7 @@ public class DefensiveManager : Singleton<DefensiveManager>
 
 
     // Use this for initialization
-    void Start () {
+    public void Start () {
 
         Tiles = new Dictionary<Point, TileScript>();
 
@@ -145,7 +148,7 @@ public class DefensiveManager : Singleton<DefensiveManager>
 
     }
 
-    void StartGame()
+    public void StartGame()
     {
         // Here, we should start a new enemy wave
         Debug.Log("Start level");
@@ -231,12 +234,27 @@ public class DefensiveManager : Singleton<DefensiveManager>
 
     public void enemiesEscaped()
     {
-        EscapedEnemies += 1;
-        if (EscapedEnemies > MaxNumberOfEscapedEnemies)
-        {
-            
 
-            Start();
+        if (EscapedEnemies >= MaxNumberOfEscapedEnemies)
+        {
+            EndGame();
+            for (int i = 0; i < WaveSpawner.Instance.objects.Length; i++)
+            {
+                Destroy(WaveSpawner.Instance.objects[i]);
+            }
+
+            int total = towersManager.Towers.Count;
+            while(total > 0) {
+                towersManager.Towers[0].Sale();
+            }
+
+            //Destroy(gameObject);
+            //WaveSpawner.Instance.OnEnemyDeath();
+            EscapedEnemies = 10;
+            return;
         }
+
+        EscapedEnemies += 1;
+
     }
 }

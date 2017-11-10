@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class GameOverManager : MonoBehaviour {
+public class GameOverManager : Singleton<GameOverManager> {
 
     public Button playAgainButton;
 
@@ -33,6 +33,7 @@ public class GameOverManager : MonoBehaviour {
 
         // Hide game over modal
         gameOverModal.gameObject.SetActive(false);
+        DefensiveManager.Instance.Start();
     }
 
     public void ShowGameOver(int score)

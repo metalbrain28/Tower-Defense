@@ -34,8 +34,9 @@ public class Enemy : Singleton<Enemy> {
         float step = speed*Time.deltaTime ;
         if (targetWaypoint == 12)
         {
-            DefensiveManager.Instance.enemiesEscaped();
             Killed();
+            DefensiveManager.Instance.enemiesEscaped();
+            
         } else {
             if (gameObject.transform.position.y < waypoints[targetWaypoint].transform.position.y)
             {

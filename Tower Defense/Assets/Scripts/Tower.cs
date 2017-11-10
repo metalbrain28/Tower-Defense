@@ -82,8 +82,15 @@ public class Tower : MonoBehaviour {
     public void Sale() {
         DefensiveManager.Instance.towerSale(this);
         TowersManager.Instance.Towers.Remove(this);
-        Destroy(gameObject);    
+        Destroy(gameObject);   
     }
+
+    public void Reinit()
+    {
+        TowersManager.Instance.Towers.Remove(this);
+        Destroy(gameObject);
+    }
+
     public void OnMouseDown() {
         if (upgradeMenuPrefab != null) {
             GameObject go = Instantiate<GameObject>(upgradeMenuPrefab);

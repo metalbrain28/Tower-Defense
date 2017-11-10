@@ -83,7 +83,7 @@ public class WaveSpawner : Singleton<WaveSpawner>
     
     }
     // Update is called once per frame
-    void OnEnemyDeath()
+    public void OnEnemyDeath()
     {
       
         enemiesRemainAlive--;
