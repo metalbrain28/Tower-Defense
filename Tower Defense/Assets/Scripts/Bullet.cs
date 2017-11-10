@@ -5,6 +5,7 @@ using UnityEngine;
 public class Bullet : MonoBehaviour {
 
     private Transform target;
+    //private Enemy _target;
 
     private float bulletSpeed = 10.0f;
 
@@ -28,6 +29,8 @@ public class Bullet : MonoBehaviour {
         float distanceThisFrame = bulletSpeed * Time.deltaTime;
         if (dir.magnitude <= distanceThisFrame) {
             HitTarget();
+            target.gameObject.SetActive(false);
+            DefensiveManager.Instance.Currency = DefensiveManager.Instance.Currency + 3;
             return;
         }
 
@@ -38,6 +41,6 @@ public class Bullet : MonoBehaviour {
     void HitTarget() {
         Debug.Log("HIT");
         Destroy(gameObject);
-
+        Destroy(target);
     }
 }

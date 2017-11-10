@@ -28,9 +28,9 @@ public class WaveSpawner : Singleton<WaveSpawner>
     // Use this for initialization
     void Start()
     {
-        //enemies = currentWave.enemyCount;
-        //NextWave();
-        //timeLastEnemySpawned = Time.time;
+        enemies = currentWave.enemyCount;
+        NextWave();
+        timeLastEnemySpawned = Time.time;
 
     }
 

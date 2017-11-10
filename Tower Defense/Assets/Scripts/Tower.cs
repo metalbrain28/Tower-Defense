@@ -85,15 +85,17 @@ public class Tower : MonoBehaviour {
     {
         Debug.Log("U even dep?");
         Deployed = true;
-        InvokeRepeating("UpdateTarget", 0f, 0.5f);
+        //InvokeRepeating("UpdateTarget", 0f, 0.5f);
     }
 
     // Update is called once per frame
     protected virtual void Update()
     {
-        if (target == null || !Deployed)
+        UpdateTarget();
+        if (target == null)
             return;
 
+        
         Debug.Log("U even target?");
         if (faceTarget)
         {
@@ -103,6 +105,9 @@ public class Tower : MonoBehaviour {
             gameObject.transform.rotation = Quaternion.AngleAxis(
                 Mathf.Atan2(direction.y, direction.x) * 180 / Mathf.PI,
                 new Vector3(0, 0, 1));
+
+
+            Debug.Log("ROTATE");
         }
 
         if (fireCountdown <= 0f)
@@ -116,7 +121,7 @@ public class Tower : MonoBehaviour {
     {
         GameObject bulletGameObject = (GameObject)Instantiate(bulletPrefab, transform.position, transform.rotation);
         Bullet bullet = bulletGameObject.GetComponent<Bullet>();
-
+        Debug.Log("SHOOT!!!!!!");
         if (bullet != null)
             bullet.Seek(target);
 
@@ -124,20 +129,26 @@ public class Tower : MonoBehaviour {
 
     void UpdateTarget()
     {
+       // Debug.Log("update target");
         GameObject[] enemiesInRange = GameObject.FindGameObjectsWithTag(enemyTag);
-
+        //Debug.Log("enemies " + enemiesInRange);
         float shortestDistance = Mathf.Infinity;
         GameObject nearestEnemy = null;
 
         foreach (GameObject enemy in enemiesInRange)
         {
             float distanceToEnemy = Vector3.Distance(transform.position, enemy.transform.position);
+            Debug.Log("distanceToenemies " + distanceToEnemy + " shortestDistance " + shortestDistance);
             if (distanceToEnemy < shortestDistance)
             {
+                Debug.Log("ENTER!");
                 shortestDistance = distanceToEnemy;
                 nearestEnemy = enemy;
+
+                Debug.Log(shortestDistance);
             }
         }
+        Debug.Log("aaaaaa "+ shortestDistance);
 
         if (nearestEnemy != null && shortestDistance <= range)
         {
