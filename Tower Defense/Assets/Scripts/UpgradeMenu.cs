@@ -19,7 +19,7 @@ public class UpgradeMenu : MonoBehaviour
         Destroy(gameObject);
     }
     public void SaleTower() {
-        tower.Sale();
+        tower.Sell();
         Destroy(gameObject);
 
     }
