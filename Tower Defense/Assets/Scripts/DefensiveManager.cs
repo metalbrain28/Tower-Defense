@@ -245,7 +245,7 @@ public class DefensiveManager : Singleton<DefensiveManager>
 
             int total = towersManager.Towers.Count;
             while(total > 0) {
-                towersManager.Towers[0].Sale();
+                towersManager.Towers[0].Sell();
             }
 
             //Destroy(gameObject);

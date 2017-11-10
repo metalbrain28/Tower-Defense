@@ -170,7 +170,6 @@ public class Tower : MonoBehaviour {
     {
         DefensiveManager.Instance.towerSale(this);
         TowersManager.Instance.Towers.Remove(this);
-<<<<<<< HEAD
         Destroy(gameObject);   
     }
 
@@ -182,14 +181,6 @@ public class Tower : MonoBehaviour {
 
     public void OnMouseDown() {
         if (upgradeMenuPrefab != null) {
-=======
-        Destroy(gameObject);
-    }
-    public void OnMouseDown()
-    {
-        if (upgradeMenuPrefab != null)
-        {
->>>>>>> ff6dc029be08c6d39c67fe1f6ad1e954792a8fdf
             GameObject go = Instantiate<GameObject>(upgradeMenuPrefab);
 
             UpgradeMenu upgradeMenu = go.GetComponentInChildren<UpgradeMenu>();
