@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyGun : MonoBehaviour {
+public class EnemyGun : Singleton<EnemyGun> {
 
     public GameObject EnemyBullet;
 

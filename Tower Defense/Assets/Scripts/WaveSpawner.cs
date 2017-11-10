@@ -77,8 +77,8 @@ public class WaveSpawner : Singleton<WaveSpawner>
 
         currentWave.enemyCount = enemies;
            
-            enemiesRemainToSpawn = currentWave.enemyCount;
-            enemiesRemainAlive = enemiesRemainToSpawn;
+        enemiesRemainToSpawn = currentWave.enemyCount;
+        enemiesRemainAlive = enemiesRemainToSpawn;
       
     
     }
@@ -92,7 +92,8 @@ public class WaveSpawner : Singleton<WaveSpawner>
             NextWave();
         }
     }
-        void Update()
+
+    void Update()
     {
         
         if(enemiesRemainToSpawn>0 && Time.time > nextSpawnTime)
