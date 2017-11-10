@@ -18,6 +18,8 @@ public class WaveSpawner : Singleton<WaveSpawner>
     public int enemies;
     float nextSpawnTime;
      Enemy enemy;
+
+    bool started = false;
     
 
    
@@ -37,6 +39,8 @@ public class WaveSpawner : Singleton<WaveSpawner>
         enemies = currentWave.enemyCount;
         NextWave();
         timeLastEnemySpawned = Time.time;
+
+        started = true;
     }
 
     void NextWave()
@@ -54,7 +58,8 @@ public class WaveSpawner : Singleton<WaveSpawner>
         if( wavePoint==1)
         {
             enemy = objects[UnityEngine.Random.Range(0, objects.Length - 1)];
-            if(currentWaveNumber == 1 && currentWaveNumber != 0)
+            enemy.tag = "Player";
+            if (currentWaveNumber == 1 && currentWaveNumber != 0)
             {
                 enemy = objects[objects.Length - 1];
             }
@@ -95,7 +100,10 @@ public class WaveSpawner : Singleton<WaveSpawner>
 
     void Update()
     {
-        
+        //if (!started) {
+        //    return;
+        //}
+
         if(enemiesRemainToSpawn>0 && Time.time > nextSpawnTime)
         {
             enemiesRemainToSpawn--;
